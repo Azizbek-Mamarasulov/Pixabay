@@ -1,0 +1,3 @@
+export const ORIENTATION_OPTIONS = ['all', 'horizontal', 'vertical'];
+export const CATEGORY_OPTIONS = ['backgrounds', 'fashion', 'nature', 'science', 'education', 'feelings', 'health', 'people', 'religion', 'places', 'animals', 'industry', 'computer', 'food', 'sports', 'transportation', 'travel', 'buildings', 'business', 'music'];
+export const COLOR_OPTIONS = ["grayscale", "transparent", "red", "orange", "yellow", "green", "turquoise", "blue", "lilac", "pink", "white", "gray", "black", "brown"];
